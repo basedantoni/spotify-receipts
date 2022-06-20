@@ -1,8 +1,9 @@
 <script setup lang="ts">
+  import Home from './views/Home.vue';
 </script>
 
 <template>
   <main>
-    <h1 class="font-black">Spotify Shit Home</h1>
+    <Home />
   </main>
 </template>
